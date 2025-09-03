@@ -1,6 +1,6 @@
 {
-    "name": "pestphp/pest-plugin-template",
-    "description": "My awesome plugin",
+    "name": "damms005/pest-plugin-filament-auth",
+    "description": "The Pest Plugin for Filament Auth",
     "keywords": [
         "php",
         "framework",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pest\\PluginName\\": "src/"
+            "Pest\\FilamentAuth\\": "src/"
         },
         "files": [
             "src/Autoload.php"
